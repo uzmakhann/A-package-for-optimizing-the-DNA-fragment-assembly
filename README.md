@@ -13,8 +13,9 @@ Datasets]
 1.	GenFrag Instances
 2.	DNAgen instances
 
+The documentation is avalible at: [paper](https://www.minrg.org/toolsanddata)
 
-#### **Main.py**   [paper](https://www.minrg.org/toolsanddata)
+#### **Main.py**   
 
 This script contains the main functions for solving the problem of DNA fragment assembly.  These are givens below.
 
