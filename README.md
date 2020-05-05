@@ -13,7 +13,7 @@ Datasets]
 1.	GenFrag Instances
 2.	DNAgen instances
 
-The documentation is avalible at: [paper](https://www.minrg.org/toolsanddata)
+The documentation is avalible at: [paper](https://github.com/uzmakhann/paper.md/blob/master/paper.md#summary)
 
 #### **Main.py**   
 
