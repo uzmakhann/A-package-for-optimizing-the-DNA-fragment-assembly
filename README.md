@@ -14,7 +14,7 @@ Datasets]
 2.	DNAgen instances
 
 
-#### **Main.py**   [paper](paper/paper.md)
+#### **Main.py**   [paper](master/paper.md)
 
 This script contains the main functions for solving the problem of DNA fragment assembly.  These are givens below.
 
