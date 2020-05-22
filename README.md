@@ -46,5 +46,5 @@ This function gives the final output, by calculating the sum of overlap score, a
 
 **Contact:** In case of any query, feel free to drop an email at uzma@giki.edu.pk
 
-                                                           :)
+                                                          
                                                        
